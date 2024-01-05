@@ -9,7 +9,7 @@ body,
 app-root,
 .app-frame {
   font-family: "Comic Sans MS";
-  color: green
+  color: green;
   background-color: rgb(3, 16, 20);
 }
 
