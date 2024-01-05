@@ -2,11 +2,15 @@ em {
   font-style: italic;
 }
 
+
+
 html,
 body,
 app-root,
 .app-frame {
   font-family: "Comic Sans MS";
+  color: green
+  background-color: rgb(3, 16, 20);
 }
 
 img {
