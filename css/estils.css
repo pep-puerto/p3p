@@ -18,6 +18,10 @@ img {
   max-height:100%;
 }
 
+h3 {
+    text-shadow: 2px 2px;
+  }
+
 a:link {
   color: green;
   background-color: transparent;
