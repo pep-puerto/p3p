@@ -1,6 +1,5 @@
-title {
-    color: red;
-  }
+
+title{ color: red; font: 12px tahoma;}
 
 em {
   font-style: italic;
