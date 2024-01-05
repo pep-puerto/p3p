@@ -1,6 +1,11 @@
+title {
+    color: red;
+  }
+
 em {
   font-style: italic;
 }
+
 
 body{
     color: green;
